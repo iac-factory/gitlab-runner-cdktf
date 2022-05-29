@@ -1,0 +1,12 @@
+[
+    {
+        "description": "Mongo + DocumentDB (Ingress) Port",
+        "protocol": "-1",
+        "fromPort": 0,
+        "toPort": 0,
+        "cidrBlocks": [ "0.0.0.0/0" ],
+        "ipv6CidrBlocks": [ "::/0" ],
+        "prefixListIds": [],
+        "securityGroups": []
+    }
+]
